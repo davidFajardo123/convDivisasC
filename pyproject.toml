@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "conv_divisas"
+version = "0.1.0"
+description = "Convertidor de Divisas para Códica"
+readme = "README.md"
+authors = [
+    {name = "David Fajardo"}
+]
+requires-python = ">=3.8"
+dependencies = [
+    "requests",
+    "freecurrencyapi",
+]
+
+[project.scripts]
+conv-divisas = "conv_divisas.convDivisas:main"

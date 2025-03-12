@@ -1,0 +1,12 @@
+
+2025-03-12 16:35:35,005 - INFO - Conversión: {'amount': 337.0, 'from_currency': 'GBP', 'to_currency': 'DKK', 'converted_amount': 2980.67}
+2025-03-12 16:35:45,704 - INFO - Conversión: {'amount': 648.0, 'from_currency': 'THB', 'to_currency': 'CAD', 'converted_amount': 27.74}
+2025-03-12 16:35:56,135 - INFO - Conversión: {'amount': 388.0, 'from_currency': 'DKK', 'to_currency': 'MYR', 'converted_amount': 250.65}
+2025-03-12 16:36:08,752 - INFO - Conversión: {'amount': 408.0, 'from_currency': 'HUF', 'to_currency': 'THB', 'converted_amount': 37.47}
+2025-03-12 16:36:25,572 - INFO - Conversión: {'amount': 520.0, 'from_currency': 'CNY', 'to_currency': 'RON', 'converted_amount': 327.98}
+2025-03-12 16:36:47,909 - INFO - Conversión: {'amount': 71.0, 'from_currency': 'RON', 'to_currency': 'MYR', 'converted_amount': 68.74}
+2025-03-12 16:36:58,359 - INFO - Conversión: {'amount': 469.0, 'from_currency': 'INR', 'to_currency': 'PHP', 'converted_amount': 307.74}
+2025-03-12 16:37:09,243 - INFO - Conversión: {'amount': 965.0, 'from_currency': 'EUR', 'to_currency': 'HUF', 'converted_amount': 386697.0}
+2025-03-12 16:37:39,223 - INFO - Conversión: {'amount': 75.0, 'from_currency': 'AUD', 'to_currency': 'RUB', 'converted_amount': 4042.92}
+2025-03-12 16:37:46,751 - INFO - Conversión: {'amount': 268.0, 'from_currency': 'EUR', 'to_currency': 'NOK', 'converted_amount': 3117.22}
+2025-03-12 17:57:57,844 - INFO - Conversión: {'amount': 100.0, 'from_currency': 'USD', 'to_currency': 'ZAR', 'converted_amount': 1821.17}

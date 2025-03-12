@@ -1,0 +1,3 @@
+
+2025-03-12 16:36:34,368 - ERROR - Opción inválida ingresada: RON
+2025-03-12 16:37:25,268 - ERROR - Moneda de destino no válida ingresada por el usuario: RUV
